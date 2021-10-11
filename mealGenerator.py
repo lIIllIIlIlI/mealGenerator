@@ -3,7 +3,8 @@ import random
 meals = {
     "sandwich": [
         ["Vollkornbroetchen", "Vollkorntoast", "Dinkelbrot"],
-        ["Mayonnaise", "Senf", "Tomatenmark", "Olivenoel", "BBQ soße", "Frischkäse", "Ziegenkäse"],
+        ["Mayonnaise", "Senf", "Tomatenmark", "Olivenoel", "BBQ soße", "Frischkäse", "Ziegenkäse", "Sambal oleg
+k"],
         ["Tomaten", "Gurken", "Ruccola", "Paprika", "Avocado", "Zwiebeln"],
         ["Putenbrust", "Scheibenkäse", "Schinken", "Thunfisch", "Mozarella", "Gernelen"],
         ["Salz"],

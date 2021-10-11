@@ -40,6 +40,7 @@ k"],
         ["Senfsoße", "Thini soße", "Dairy soße", "Vinaigrette soße", "Pesto soße", "Fruchtige soße"],
         ],
     "Salat": [
+        ["Vollkornbrötchen", "Nudeln", "Quinoa", "Reis"],
         ["Ruccola", "Salatblaetter", "Rettich"],
         ["Karotten", "Kresse", "Gurke", "Croutons", "Zucchini", "Paprika", "Apfel", "Kresse"],
         ["Mozarella", "Avocado", "Tomaten", "Reis", "Nudeln", "Oliven"],
